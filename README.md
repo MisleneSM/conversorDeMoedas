@@ -52,8 +52,8 @@ Para acessar o resultado do projeto, basta realizar o fork ou download deste pro
 ## 4. Tecnologias Utilizadas✅
 
 <div>
-    <img src="../Downloads/java_original_wordmark_logo_icon_146459.ico" alt="Java Logo" width="50" height="50">
-    <img src="../Downloads/intellij_macos_bigsur_icon_190061.ico" alt="IntelliJ Logo" width="50" height="50">
+    <img src="https://img.icons8.com/color/452/java-coffee-cup-logo--v1.png" alt="Java Logo" width="50" height="50">
+    <img src="https://img.icons8.com/color/452/intellij-idea.png" alt="IntelliJ Logo" width="50" height="50">
     <img src="https://img.icons8.com/color/452/google-logo.png" alt="Ícone G do Google" width="50" height="50">
 </div>
 
